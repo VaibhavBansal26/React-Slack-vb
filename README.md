@@ -1,2 +1,2 @@
 
-Slack clone usinf firebase and react
+Slack clone using firebase and react
